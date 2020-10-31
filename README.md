@@ -61,8 +61,8 @@
 
 ## 貢獻者名單
 
-感謝以下貢獻者貢獻練習題：
+感謝以下貢獻者貢獻練習題（按開頭字母順序排序）：
 
-* [Yueh-Hua Tu (杜岳華)](https://github.com/yuehhua)
-* [Jing-Yu Ning（甯敬宇）](https://github.com/foldfelis)
 * [Ching-Wen Cheng（鄭景文）](https://github.com/chengchingwen)
+* [Jing-Yu Ning（甯敬宇）](https://github.com/foldfelis)
+* [Yueh-Hua Tu (杜岳華)](https://github.com/yuehhua)
